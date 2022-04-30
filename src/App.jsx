@@ -18,7 +18,7 @@ const App = () => {
     <>
       <Header />
       <Hero />
-      <Weather />
+      <Weather width={300} />
     </>
   );
 }
